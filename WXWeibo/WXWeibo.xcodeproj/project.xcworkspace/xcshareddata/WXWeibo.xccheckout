@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D7A92315-2227-48D8-BB8F-0DACB2A29C96</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WXWeibo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>29299F79-724F-4D7A-A4B0-FB42A579AF90</key>
+		<string>svn://192.168.1.252/trunk/wxhl502%20/03%20iPhone%20UI</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>项目实战2/04 代码/12 第十二天/WXWeibo/WXWeibo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>29299F79-724F-4D7A-A4B0-FB42A579AF90</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>29299F79-724F-4D7A-A4B0-FB42A579AF90</key>
+		<string>svn://192.168.1.252</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.1.252/trunk/wxhl502%20/03%20iPhone%20UI/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%982/04%20%E4%BB%A3%E7%A0%81/12%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%A4%A9/WXWeibo/WXWeibo.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>29299F79-724F-4D7A-A4B0-FB42A579AF90</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>29299F79-724F-4D7A-A4B0-FB42A579AF90</string>
+			<key>IDESourceControlWCCName</key>
+			<string>03 iPhone UI_svn</string>
+		</dict>
+	</array>
+</dict>
+</plist>
